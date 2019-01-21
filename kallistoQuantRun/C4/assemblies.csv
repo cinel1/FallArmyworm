@@ -1,0 +1,2 @@
+assembly,n_seqs,smallest,largest,n_bases,mean_len,n_under_200,n_over_1k,n_over_10k,n_with_orf,mean_orf_percent,n90,n70,n50,n30,n10,gc,bases_n,proportion_n,score,optimal_score,cutoff,weighted
+/N/dc2/scratch/scinel/de-novo-transcriptome-assembly-pipeline/Project_Carbonate/final_assemblies/okayset/combined.okay.fa,27734,124,38522,39206090,1399.85206,2202,11333,124,14592,65.80734,637,1810,2933,4519,7735,0.42927,527296,0.01345,NA,NA,NA,NA

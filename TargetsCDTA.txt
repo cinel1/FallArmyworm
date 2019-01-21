@@ -1,0 +1,9 @@
+Sample	Treatment	Rep	Label	files	Total	Mapped
+1	C	1	C1	C1abundance.tsv	29168329	10251950
+2	C	2	C2	C2abundance.tsv	30674685	11476789
+3	C	3	C3	C3abundance.tsv	29009884	10518610
+4	C	4	C4	C4abundance.tsv	29578235	10602131
+5	E	1	E1	E1abundance.tsv	28091381	10274876
+6	E	2	E2	E2abundance.tsv	29862114	11050795
+7	E	3	E3	E3abundance.tsv	30768518	11325531
+8	E	4	E4	E4abundance.tsv	30360133	11432664

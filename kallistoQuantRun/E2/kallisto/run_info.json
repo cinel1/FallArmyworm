@@ -1,0 +1,9 @@
+{
+	"n_targets": 27734,
+	"n_bootstraps": 250,
+	"n_processed": 29862114,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Sun Aug  5 21:16:49 2018",
+	"call": "kallisto quant -i combined.okay.index -o KallistoRunE2 --fr-stranded -b 250 ../../../../TrimmedReads/Cinel_E2tRNA_GCCAATAT_L001_R1_001.fastq ../../../../TrimmedReads/Cinel_E2tRNA_GCCAATAT_L001_R2_001.fastq"
+}
